@@ -1,0 +1,5 @@
+name: GlobalVillagerHealBonus
+version: 0.0.1
+main: xyz.rusin.globalvillagerhealbonus.GlobalVillagerHealBonus
+api-version: 1.16
+author: loganthemanster
